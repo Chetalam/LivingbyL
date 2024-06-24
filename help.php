@@ -1,4 +1,4 @@
-<h1>How vcan we help you</h1>
+<h1>How can we help you?</h1>
 <?php include('header.php'); ?> 
 
 <a href="index.html">Home</a> | <a href="about.html">About Us</a> |
