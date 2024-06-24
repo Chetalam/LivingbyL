@@ -1,4 +1,4 @@
-<h1>Home</h1>
+<h1>Designs we've handled</h1>
 <?php include('header.php'); ?> 
 
 <a href="index.html">Home</a> | <a href="about.html">About Us</a> |
