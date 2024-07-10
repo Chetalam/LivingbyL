@@ -1,7 +1,7 @@
 <h1>Projects we've accomplished</h1>
 <?php include('header.php'); ?> 
 
-
+ 
  <h1> Which projects have we done so far?</h1>
 <p>At the moment, we work on:<br></br>
      houses<br></br>
