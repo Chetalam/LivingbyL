@@ -1,8 +1,8 @@
 -- create database
 
-DROP DATABASE IF EXISTS LivingbyL ;
-CREATE DATABASE IF NOT EXISTS LivingbyL;
-USE LivingbyL;
+DROP DATABASE IF EXISTS livingbyl ;
+CREATE DATABASE IF NOT EXISTS livingbyl;
+USE livingbyl;
 
 -- create table
 
