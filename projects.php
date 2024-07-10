@@ -1,10 +1,7 @@
 <h1>Projects we've accomplished</h1>
 <?php include('header.php'); ?> 
 
-<a href="index.html">Home</a> | <a href="about.html">About Us</a> |
-    <a href="registration.html">Registration</a> | <a href="area.html">Area</a> |
-     <a href="projects.html">Projects</a> | <a href="design.html">Design</a> |
-      <a href="contact.html">Contact Us</a> | <a href="help.html">Help</a>
+
  <h1> Which projects have we done so far?</h1>
 <p>At the moment, we work on:<br></br>
      houses<br></br>

@@ -1,10 +1,7 @@
 <h1>Registration</h1>
 <?php include('header.php'); ?> 
 
-<a href="index.html">Home</a> | <a href="about.html">About Us</a> |
-    <a href="registration.html">Registration</a> | <a href="area.html">Area</a> |
-     <a href="projects.html">Projects</a> | <a href="design.html">Design</a> |
-      <a href="contact.html">Contact Us</a> | <a href="help.html">Help</a>  
+
       <h1> Would you like to register?</h1>
     <p>Registration is not a force on your hand to build a home.<br></br>
         It is simply a way of guaranteeing yourself fast and efficient service if and when you decide you want to embark in this new journey.<br></br>
@@ -56,7 +53,7 @@
             Password :</br> 
             <input type="password" name="password"/><br/><br/><br/>
             Date of Birth :</br>
-            <input type="date" name="date of birth"/>/><br/><br/><br/>
+            <input type="date" name="dateofbirth"/>/><br/><br/><br/>
             <select name="gender">
                 <option value="male">Male</option>
                 <option value="female">Female</option>
