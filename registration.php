@@ -49,7 +49,7 @@
             Full name : </br>
             <input type="text" name="fullname"/><br/><br/><br/> 
             Budget : </br>
-            <input type="text" name="username"/><br/><br/><br/>
+            <input type="text" name="budget"/><br/><br/><br/>
             Password :</br> 
             <input type="password" name="password"/><br/><br/><br/>
             Date of Birth :</br>
