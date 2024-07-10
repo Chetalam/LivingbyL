@@ -6,6 +6,6 @@
 define("HOSTNAME", "localhost");
 define("HOSTUSER", "root");
 define("HOSTPASS", "  ");
-define("DBNAME", "LivingbyL");
+define("DBNAME", "livingbyl");
 
 ?>
