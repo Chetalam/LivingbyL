@@ -1,5 +1,5 @@
 <h1>Home</h1>
-<?php include('header.php'); ?> 
+<?php include_once ("templates/headings.php"); ?> 
 
 
   <h1> Welcome to LivingbyL</h1> 
