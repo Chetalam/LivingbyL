@@ -1,8 +1,12 @@
-<?
+
 // create the database connection using constants previously created.
 
 // Inserting constants content 
-require_once "constants.php";
+
+
+<?php 
+
+require_once "templates\constants.php"; 
 
 // Create the database connection
 $dbConn = new mysqli( HOSTNAME, HOSTUSER, HOSTPASS, DBNAME);
