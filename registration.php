@@ -1,8 +1,10 @@
-<h1>Registration</h1>
-<?php include('header.php'); ?>
+<?php include_once('templates/headings.php'); ?>
 <?php require_once("templates/db_connect.php"); ?>
+<?php include_once("templates/nav.php"); ?>
 
+<body> 
       <h1> Would you like to register?</h1>
+      <h1>Registration</h1>
     <p>Registration is not a force on your hand to build a home.<br></br>
         It is simply a way of guaranteeing yourself fast and efficient service if and when you decide you want to embark in this new journey.<br></br>
         We would love it if you could consider embarking on this exciting journey with us.
@@ -64,7 +66,13 @@
             <input type="submit" name="Submit" value="Submit"/>
             </form>
     
+            <input type="submit" name="Submit" value="Submit"/>
+        </form>
 
     </p>
 
-<?php include ('footer.php'); ?>
+</body>
+
+
+
+      

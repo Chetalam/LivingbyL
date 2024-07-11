@@ -1,7 +1,16 @@
-<h1>About us</h1>
-<?php include('header.php'); ?> 
-
-<a href="index.html">Home</a> | <a href="about.html">About Us</a> |
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LivingbyL</title>
+    <link rel="stylesheet" href="css/about.css">
+    <style>
+       
+        </style>
+</head>
+<body>
+    <a href="index.html">Home</a> | <a href="about.html">About Us</a> |
     <a href="registration.html">Registration</a> | <a href="area.html">Area</a> |
      <a href="projects.html">Projects</a> | <a href="design.html">Design</a> |
       <a href="contact.html">Contact Us</a> | <a href="help.html">Help</a>
@@ -12,5 +21,5 @@
      personnel who are dedicated to their love of helping the clients find their dream homes.<br></br> 
      <img src="images/Ranch-style.jpeg" alt="images" class="center" width="35%">
      <img src="images/Bungalow.jpeg" alt="images" class="margin-right" width="35%"></p>
-
-<?php include ('footer.php'); ?>
+</body>
+</html>
