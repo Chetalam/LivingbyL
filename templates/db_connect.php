@@ -6,17 +6,19 @@
 
 <?php 
 
-require_once "templates\constants.php"; 
+$servername = "localhost";
+$username = "root";
+$password = "";
+$db_name = "livingbyl";
 
 // Create the database connection
-$dbConn = new mysqli( HOSTNAME, HOSTUSER, HOSTPASS, DBNAME);
+$dbConn = new mysqli($servername, $username, $password, $db_name);
 
 // Verify the connection
 if($dbConn->connect_error){
     die("Connection Failed: " . $dbConn-> connect_error);
 }
-else{
-    print "The connection was successful!!! :-)";
-}
+    echo "The connection was successful";
+
 
 ?>
