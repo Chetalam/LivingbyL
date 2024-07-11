@@ -1,19 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>LivingbyL</title>
-    <link rel="stylesheet" href="css/about.css">
-    <style>
-       
-        </style>
-</head>
-<body>
-    <a href="index.html">Home</a> | <a href="about.html">About Us</a> |
-    <a href="registration.html">Registration</a> | <a href="area.html">Area</a> |
-     <a href="projects.html">Projects</a> | <a href="design.html">Design</a> |
-      <a href="contact.html">Contact Us</a> | <a href="help.html">Help</a>
+<h1>About Us</h1>
+<?php include_once ("templates/headings.php"); ?> 
+<?php include_once("templates/nav.php"); ?>
+
  <h1> What about us?</h1>
 <p>Established 4 years ago, LivingbyL is an organisation created soley for the purpose of giving every beautiful person a chance to create
      their dream home. It strives to start from point 0 with each and every client, building one step at a time so as to ensure the 
@@ -21,5 +9,6 @@
      personnel who are dedicated to their love of helping the clients find their dream homes.<br></br> 
      <img src="images/Ranch-style.jpeg" alt="images" class="center" width="35%">
      <img src="images/Bungalow.jpeg" alt="images" class="margin-right" width="35%"></p>
-</body>
-</html>
+
+
+     <?php include ('footer.php'); ?>
