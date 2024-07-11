@@ -1,5 +1,5 @@
 <h1>Projects we've accomplished</h1>
-<?php include('header.php'); ?> 
+<?php include('headings.php'); ?> 
 
  
  <h1> Which projects have we done so far?</h1>
