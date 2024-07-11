@@ -1,6 +1,6 @@
 <h1>Contacting us</h1>
-<?php include('header.php'); ?> 
-
+<?php include_once ("templates/headings.php"); ?> 
+<?php include_once("templates/nav.php"); ?>
 
  <h1> How can you get in contact with us?</h1>  
 <p> You can get in contact with us via email and phone provided below. You may also choose to visit us. <br></br>
