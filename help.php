@@ -1,6 +1,6 @@
 <h1>How can we help you?</h1>
-<?php include('header.php'); ?> 
-
+<?php include_once ("templates/headings.php"); ?> 
+<?php include_once("templates/nav.php"); ?> 
 
  <h1> Do you need any help?</h1>
 <p>If you need any help, kindly ask our 24 hour customer service at LbLCustomer@gmail.com.<br></br>
