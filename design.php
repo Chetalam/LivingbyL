@@ -1,6 +1,6 @@
 <h1>Designs we've handled</h1>
-<?php include('header.php'); ?> 
-
+<?php include_once ("templates/headings.php"); ?> 
+<?php include_once("templates/nav.php"); ?> 
 
  <h1> What designs have we accomplished so far?</h1>
 <p>We have done many designs as our client profile is very diverse. Some of the designs that we have done include:<br></br>
