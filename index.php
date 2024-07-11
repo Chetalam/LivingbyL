@@ -1,6 +1,6 @@
 <h1>Home</h1>
 <?php include_once ("templates/headings.php"); ?> 
-
+<?php include_once("templates/nav.php"); ?>
 
   <h1> Welcome to LivingbyL</h1> 
 <p> Lovely to see you explore LivingbyL. Welcome!<br></br>

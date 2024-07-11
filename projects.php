@@ -1,6 +1,6 @@
 <h1>Projects we've accomplished</h1>
 <?php include_once ("templates/headings.php"); ?> 
-
+<?php include_once("templates/nav.php"); ?>
  
  <h1> Which projects have we done so far?</h1>
 <p>At the moment, we work on:<br></br>
