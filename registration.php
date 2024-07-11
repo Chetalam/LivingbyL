@@ -1,6 +1,6 @@
 <h1>Registration</h1>
-<?php include('header.php'); ?> 
-
+<?php include('header.php'); ?>
+<?php require_once("templates/db_connect.php"); ?>
 
       <h1> Would you like to register?</h1>
     <p>Registration is not a force on your hand to build a home.<br></br>
